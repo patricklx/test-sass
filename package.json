@@ -1,0 +1,22 @@
+{
+  "name": "test-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patricklx/test-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patricklx/test-sass/issues"
+  },
+  "homepage": "https://github.com/patricklx/test-sass#readme",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}
